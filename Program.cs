@@ -21,7 +21,7 @@ public class Program
         Console.WriteLine(List.Count);
         Console.WriteLine(List.Capacity);
         Console.WriteLine();
-        List.Add(mass); /* Метод Add(int[] elements)34324324234*/
+        List.Add(mass); /* Метод Add(int[] elements)*/
         List.Veiwer();
         Console.WriteLine();
         Console.WriteLine(List.Count);
